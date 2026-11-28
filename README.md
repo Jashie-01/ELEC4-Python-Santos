@@ -32,16 +32,16 @@ For P4, run it from inside the `set1/p4` folder so the program can find `file_te
 
 ### P1: Student Grade Calculator
 
-![P1 output](set1/p1/screenshots/p1_output.png)
+![P1 output](set1/p1/screenshots/P1.png)
 
 ### P2: Custom Module: student_utils
 
-![P2 output](set1/p2/screenshots/p2_output.png)
+![P2 output](set1/p2/screenshots/P2.png)
 
 ### P3: Student Record Manager
 
-![P3 output](set1/p3/screenshots/p3_output.png)
+![P3 output](set1/p3/screenshots/P3_add.png)
 
 ### P4: Safe Menu Program
 
-![P4 output](set1/p4/screenshots/p4_output.png)
+![P4 output](set1/p4/screenshots/P4_missing_file.png)
